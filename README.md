@@ -10,7 +10,7 @@
 # fblive-dl
 Facebook Live Downloader
 
-# Requirement
+# Requirements
 - ffmpeg
 - youtube-dl
 
