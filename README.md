@@ -7,5 +7,6 @@ Facebook Live Downloader
 
 # Usage
 ```
-./fblive-dl url [output]
+$ chmod +x fblive-dl
+$ ./fblive-dl url [output.mp4]
 ```
