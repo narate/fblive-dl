@@ -19,3 +19,5 @@ Facebook Live Downloader
 $ chmod +x fblive-dl
 $ ./fblive-dl url [output.mp4]
 ```
+
+Just tested on Mac OS X maybe worked on Linux box
